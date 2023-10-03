@@ -3,7 +3,6 @@ pandas
 numpy
 pymongo 
 google-api-python-client
-PIL
 googleapiclient.discovery
 datetime
 time
