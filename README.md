@@ -13,5 +13,3 @@
 
 *PostgreSQL*
 
-
-<img src="Youtube.readme.jpg" alt="Alt Text" width="300">
