@@ -1,7 +1,6 @@
 streamlit
 pandas
-numpy
 pymongo 
 google-api-python-client
 Pillow
-googleapiclient.discovery
+psycopg2
