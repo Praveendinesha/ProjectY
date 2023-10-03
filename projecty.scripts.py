@@ -1,3 +1,11 @@
+import pandas as pd
+import streamlit as st
+from pymongo import MongoClient
+from googleapiclient.discovery import build
+from PIL import Image
+import psycopg2 as pg
+import datetime
+import time
 #======================================================= SETTING STREAMLIT PAGE CONFIGURATIONS ===============================
 
 #st.title(":red[YOUTUBE DATA HARVESTING AND ANALYSING]")
