@@ -1,8 +1,6 @@
 # ProjectY
 # **YouTube Data Harvesting and Warhousing**
 
----
-
 
 * This project aims to harvest data from YouTube using Python scripting and store it in a NoSQL (MongoDB) database as a data lake. 
 
