@@ -13,4 +13,4 @@
 
 *PostgreSQL*
 
-![Alt Text]("C:\Users\Admin\Downloads\Youtube.readme.jpg")
+![Alt Text]("Youtube.readme.jpg")
