@@ -370,13 +370,14 @@ if option == "Extract and Transform":
 
     #EXTRACT TAB
     with tab1:
+        
         names_list = ["1. Tamil Thalaivas---UCi-2sQgbsiTlKezHuk4yTWw", "2. Endless Knowledge---UCApUMSkgDT8ayJZU8jBweYw", "3. Guvi---UCApUMSkgDT8ayJZU8jBweYw",
             "4. Finance Boosan---UCmfl6VteCu880D8Txl4vEag", "5. code io---UCGoLw0tC_QAXy0b4KCoxYZw",
             "6. Coding Anna---UCGoLw0tC_QAXy0b4KCoxYZw" , "7. Santra TechSpot---UCGoLw0tC_QAXy0b4KCoxYZw", "8. Kizen English---UC44aT4ek1daiUsw2o1XUxow", 
             "9. Think Biology Think Visiom---UCauaJTp7T22U0OJVss-5h1w", "10. Wonder Creations---UC984xzYy-NEi-dm8IEgt5Kw", "11. Napstro Fusion---UC2mbzXePbOYg2kewdzkVTjA"]
   
         # Display the list of names as a bullet list
-        st.markdown("**List of Channels:**")
+        st.markdown("**SOME SAMPLE CHANNELS AND IDs:**")
         for name in names_list:
             st.markdown(f" {name}")
 
