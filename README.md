@@ -13,4 +13,4 @@
 
 *PostgreSQL*
 
-![Alt Text]("Youtube.readme.jpg")
+![Alt Text](Youtube.readme.jpg)
