@@ -34,7 +34,7 @@ coll = db['Channels']
 
 #                                               ---------Connection with Postgresql DATABASE---------
 
-Integration=pg.connect(host='localhost',port=5432,user='postgres',password='praveendinesh', database='Youtube1')
+Integration=pg.connect(host='localhost',port=5432,user='postgres',password='******', database='Youtube1')
 connect = Integration.cursor()
 
 
