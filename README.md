@@ -7,9 +7,9 @@
 
 **Prerequisites Before running the scripts, make sure you have the following dependencies installed:**
 
-*Python 3.9 or later*
+***Python 3.9 or later***
 
-*MongoDB*
+***MongoDB***
 
-*PostgreSQL*
+***PostgreSQL***
 
